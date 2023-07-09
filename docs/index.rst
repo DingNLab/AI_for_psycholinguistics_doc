@@ -19,7 +19,8 @@
    nlp
    semantic
    syntax
-
+   AI_for_psycholinguistics
+   
 .. toctree::
    :maxdepth: 1
    :caption: English Version
